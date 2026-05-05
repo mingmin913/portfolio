@@ -45,6 +45,7 @@ header .gnb ul li a{
 }
 .info .left .photo{
     overflow: hidden;
+    margin:0 106px 0 0;
 }
 .info .left .photo img{
     width: 100%;
